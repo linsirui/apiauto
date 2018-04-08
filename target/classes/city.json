@@ -1,0 +1,11 @@
+{
+  "dataSet":[
+    {
+      "testCase": "TestCase1",
+      "apiURL": "https://www.apiopen.top/weatherApi?city=成都"
+    },
+    {
+      "testCase": "TestCase2",
+      "apiURL": "https://www.apiopen.top/weatherApi?city=重庆"
+    }]
+}
